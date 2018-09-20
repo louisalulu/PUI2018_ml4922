@@ -5,5 +5,5 @@
 2. And then by creating *alias* to set ```pui2018``` as a command which will take us to our working directory.
 
 
-![Alt text](PUI2018_ml4922/HW1_ml4922/setup_env.jpg)
-![Alt text](PUI2018_ml4922/HW1_ml4922/ml4922_bash.jpg)
+![Alt text](HW1_ml4922/setup_env.jpg)
+![Alt text](HW1_ml4922/ml4922_bash.jpg)
