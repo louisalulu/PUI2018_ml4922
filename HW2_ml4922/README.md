@@ -3,12 +3,12 @@
 ## Assignment1
 
 #### 1. Create a file called test.csv
-![Alt text](screenShots/1.png)
-![Alt text](screenShots/2.png)
+![Alt text](Screenshots/1.png)
+![Alt text](Screenshots/2.png)
 
 #### 2 . Remove the file from local and remote repository 
-![Alt text](screenShots/4.png)
-![Alt text](screenShots/3.png)
+![Alt text](Screenshots/4.png)
+![Alt text](Screenshots/3.png)
 
 ## Assignment2
 ### Read CSV files with pandas and ise NYC open data portal
