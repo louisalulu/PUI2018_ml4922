@@ -7,6 +7,7 @@
 - For each sample PLOT the sample mean (dependent var.) against the sample size N (independent var.) 
 - DESCRIBE the behavior I see in the plots in terms of the _law of large numbers_ or _Central Limit Theorem_.
 - PLOT the distributions of all sample means (together for all distributions).  
+
 -https://github.com/louisalulu/PUI2018_ml4922/blob/master/HW4_ml4922/HW4_Assignment1.ipynb
 
 ## Assignment2
