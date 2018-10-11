@@ -7,7 +7,7 @@
 
 
 ## Assignment2
-### Practice pandas
+### Follow Mr. Kryaschev's instructions
 -https://github.com/louisalulu/PUI2018_ml4922/blob/master/HW5_ml4922/SQL_query_ml4922.ipynb
 
 
