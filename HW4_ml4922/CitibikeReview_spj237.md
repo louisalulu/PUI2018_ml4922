@@ -1,0 +1,5 @@
+This is a very interesting hypothesis (I had picked the same hypothesis in fact). 
+I believe the hypothesis has been framed correctly, since what we are really testing is to see if more customers are biking on the weekend.
+The only minor comment I'll make is about the framing of the idea. Currently the idea is just rephrasing the hypotheses. I think what you're trying to get as is to see if tourists (presumed to be customers) bike more on weekends compared to locals (subscribers).
+
+The data collected does support the hypothesis you want to test, but in order to answer the question you may need to process the data further. You may want to consider getting the mean of the proportion of subscribers on weekends, and the proportion of customers on weekends (that would require getting the mean of all the proportions for saturdays and sundays for customers and subscribers). You will basically get lots of proportions, for which you can calculate the mean and the standard error. Then you can carry out a t test to check if the two means are indeed different (and come from a different parent distribution). 
