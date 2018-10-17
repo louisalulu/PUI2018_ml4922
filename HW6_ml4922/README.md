@@ -28,6 +28,9 @@ Path analysis	| 10, stem diameter, total leaf area per plant, root biomass, stem
 ![main plot](photos/pathanalysis.png)
 
 ## Assignment3
-
+### Reproduce the analysis of the Hard to Employ program in NY:
+-https://github.com/louisalulu/PUI2018_ml4922/blob/master/HW6_ml4922/Assignment3_ml4922_effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb
 
 ## Assignment4
+### Tests of correlation using the scipy package with citibike data：
+-https://github.com/louisalulu/PUI2018_ml4922/blob/master/HW6_ml4922/Assignment4_ml4922_citibikes_compare_distributions.ipynb
