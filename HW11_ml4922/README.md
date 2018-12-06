@@ -2,7 +2,7 @@
 
 ## Assignment1
 
--
+-https://github.com/louisalulu/PUI2018_ml4922/blob/master/HW11_ml4922/subway_timeseries_instructions2.ipynb
 
 ## Assignment2
 
